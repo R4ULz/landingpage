@@ -26,7 +26,7 @@ header .nome-empresa{
     background: rgb(75,16,53);
     height: 850px;
     padding-top: 55px;
-    background-image: url(/img/prin.png);
+    background-image: url(../img/prin.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
@@ -181,7 +181,7 @@ header .nome-empresa{
     font-size: 20px;
 }
 .terciaria{
-    background-image: url(/img/fundo4.png);
+    background-image: url(../img/fundo4.png);
     height: 560px;
     background-size: cover;
 }
@@ -240,7 +240,7 @@ header .nome-empresa{
 .quarta{
     background-color:  #260E69;
     height: 600px;
-    background-image: url(/img/fundo8.png);
+    background-image: url(../img/fundo8.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -330,7 +330,7 @@ header .nome-empresa{
     height: 750px;
     display: flex;
     justify-content: center;
-    background-image: url(/img/fundo9.png);
+    background-image: url(../img/fundo9.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -375,7 +375,7 @@ header .nome-empresa{
 }
 .sexta{
     height: 800px;
-    background-image: url(/img/fundo10.png);
+    background-image: url(../img/fundo10.png);
     background-size: cover;
     background-repeat: no-repeat;
 
